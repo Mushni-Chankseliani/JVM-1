@@ -1,4 +1,4 @@
-package BTU.prject3;
+package BTU.project3;
 
 public class Main {
     public static void main(String[] args) {
