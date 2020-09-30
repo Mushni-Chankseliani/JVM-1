@@ -1,4 +1,4 @@
-package BTU.prject3;
+package BTU.project3;
 
 public class ClassA {
     public int x = 1, y = 2, z = 2;
